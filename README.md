@@ -16,13 +16,21 @@ Zomato sales analysis(Questionaries)
 Add all the below Columns in the Calendar Table using the Formulas.
    
    A. Year
+   
    B.Monthno
+   
    C.Monthfullname
+   
    D.Quarter (Q1, Q2,Q3,Q4)
+   
    E. YearMonth (YYYY-MMM)
+   
    F. Weekdayno
+   
    G. Weekdayname
+   
    H.FinancialMonth (April FM1, May= FM2 March FM12)
+   
    I. Financial Quarter (Quarters based on Financial Month FQ-1. FQ-2..)
 
 4. Convert the Average cost for 2 column into USD dollars (currently the Average cost for 2 in local currencies

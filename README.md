@@ -14,7 +14,6 @@ Zomato sales analysis(Questionaries)
 2. Build a Calendar Table using the Columns Datekey_Opening (Which has Dates from Minimum Dates and Maximum Dates)
 
 Add all the below Columns in the Calendar Table using the Formulas.
-
 A. Year
 
 B.Monthno
@@ -57,15 +56,15 @@ I. Financial Quarter (Quarters based on Financial Month FQ-1. FQ-2..)
 
 
 ## Process
-Data Import – Load Zomato restaurant data into Power BI from Excel or CSV sources.
+- Data Import – Load Zomato restaurant data into Power BI from Excel or CSV sources.
 
-Data Cleaning – Use Power Query to clean nulls, standardize cuisines, and format country/city names.
+- Data Cleaning – Use Power Query to clean nulls, standardize cuisines, and format country/city names.
 
-Data Modeling – Create relationships between tables (e.g., country, cuisine, votes, rating) and build necessary calculated columns/measures (like average rating).
+- Data Modeling – Create relationships between tables (e.g., country, cuisine, votes, rating) and build necessary calculated columns/measures (like average rating).
 
-Visualization – Design visuals like maps, bar charts, pie charts, and KPIs to show restaurant count, cuisines, delivery, booking, and ratings.
+- Visualization – Design visuals like maps, bar charts, pie charts, and KPIs to show restaurant count, cuisines, delivery, booking, and ratings.
 
-Interactivity – Add slicers for country/year filters and enhance with tooltips and dynamic visuals for user-friendly exploration.
+- Interactivity – Add slicers for country/year filters and enhance with tooltips and dynamic visuals for user-friendly exploration.
 
 
 ## Dashboard 
@@ -74,15 +73,15 @@ Interactivity – Add slicers for country/year filters and enhance with tooltips
 
 
 ## Project Insights
-Restaurant Reach: The dataset includes 9,551 restaurants spread across 141 cities and 15 countries, indicating Zomato’s broad international presence.
+- Restaurant Reach: The dataset includes 9,551 restaurants spread across 141 cities and 15 countries, indicating Zomato’s broad international presence.
 
-Average Rating: The overall average rating is 2.89, suggesting that user satisfaction is moderate and there may be room for service or food quality improvement.
+- Average Rating: The overall average rating is 2.89, suggesting that user satisfaction is moderate and there may be room for service or food quality improvement.
 
-Popular Cuisines: North Indian, Chinese, and Fast Food are the most offered cuisines, highlighting strong demand for these food types.
+- Popular Cuisines: North Indian, Chinese, and Fast Food are the most offered cuisines, highlighting strong demand for these food types.
 
-Online Delivery & Booking: A large portion of restaurants (74.3%) offer online delivery and 85.4% support table booking, showing a high level of digital adoption.
+- Online Delivery & Booking: A large portion of restaurants (74.3%) offer online delivery and 85.4% support table booking, showing a high level of digital adoption.
 
-User Engagement: With over 1 million votes, there is significant customer interaction, indicating that users actively review and rate their dining experiences.
+- User Engagement: With over 1 million votes, there is significant customer interaction, indicating that users actively review and rate their dining experiences.
 
 
 ## Final Coclusion

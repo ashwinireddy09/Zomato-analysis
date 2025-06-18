@@ -68,8 +68,10 @@ Visualization – Design visuals like maps, bar charts, pie charts, and KPIs to 
 Interactivity – Add slicers for country/year filters and enhance with tooltips and dynamic visuals for user-friendly exploration.
 
 
-#Dashboard 
-<a href="https://github.com/ashwinireddy09/Zomato-analysis/blob/main/Screenshot%202025-06-18%20130203.png">View Dashboard</a>
+# Dashboard 
+
+![Screenshot 2025-06-18 130203](https://github.com/user-attachments/assets/5a67752f-b904-421c-9735-e5d13ead308e)
+
 
 # Project Insights
 Restaurant Reach: The dataset includes 9,551 restaurants spread across 141 cities and 15 countries, indicating Zomato’s broad international presence.

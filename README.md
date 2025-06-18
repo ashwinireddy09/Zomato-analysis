@@ -6,7 +6,7 @@ The objective of the Zomato Sales Analysis project is to analyze customer order 
 # Dataset Used
 - <a href="https://github.com/ashwinireddy09/Zomato-sales-analyst/blob/main/Zomato%20analysis_dataset.xlsx">Zomato sales data</a>
 
-# Questions KPI's
+# Questions (KPI's)
 Zomato sales analysis(Questionaries)
 
 1. Build a Data Model using the Sheets in the Excel File
@@ -53,8 +53,38 @@ I. Financial Quarter (Quarters based on Financial Month FQ-1. FQ-2..)
 
 **** KPI are not limited only to above, you can experiment on the other KPI as well.
 
+- Dashboard Interaction <a href="https://github.com/ashwinireddy09/Zomato-analysis/blob/main/Screenshot%202025-06-18%20130203.png">View Dashboard</a>
 
 
+# Process
+Data Import – Load Zomato restaurant data into Power BI from Excel or CSV sources.
+
+Data Cleaning – Use Power Query to clean nulls, standardize cuisines, and format country/city names.
+
+Data Modeling – Create relationships between tables (e.g., country, cuisine, votes, rating) and build necessary calculated columns/measures (like average rating).
+
+Visualization – Design visuals like maps, bar charts, pie charts, and KPIs to show restaurant count, cuisines, delivery, booking, and ratings.
+
+Interactivity – Add slicers for country/year filters and enhance with tooltips and dynamic visuals for user-friendly exploration.
+
+
+#Dashboard 
+<a href="https://github.com/ashwinireddy09/Zomato-analysis/blob/main/Screenshot%202025-06-18%20130203.png">View Dashboard</a>
+
+# Project Insights
+Restaurant Reach: The dataset includes 9,551 restaurants spread across 141 cities and 15 countries, indicating Zomato’s broad international presence.
+
+Average Rating: The overall average rating is 2.89, suggesting that user satisfaction is moderate and there may be room for service or food quality improvement.
+
+Popular Cuisines: North Indian, Chinese, and Fast Food are the most offered cuisines, highlighting strong demand for these food types.
+
+Online Delivery & Booking: A large portion of restaurants (74.3%) offer online delivery and 85.4% support table booking, showing a high level of digital adoption.
+
+User Engagement: With over 1 million votes, there is significant customer interaction, indicating that users actively review and rate their dining experiences.
+
+
+# Final Coclusion
+The Zomato analysis reveals a strong global presence with high user engagement and digital service adoption across 15 countries. While popular cuisines like North Indian and Chinese dominate the market, the overall average rating of 2.89 highlights potential areas for service or quality improvement. With most restaurants offering online delivery and table booking, Zomato is well-positioned in the competitive food service landscape. These insights can guide strategic decisions to enhance customer satisfaction and optimize restaurant performance.
 
 
 

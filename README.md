@@ -1,4 +1,4 @@
-# Zomato analysis-Data analysis(interactive Dashboard creation Using Power Bi & Excel)
+# Zomato analysis-Data analysis(interactive Dashboard creation Using Power Bi)
 
 ## Project Objective
 The objective of the Zomato Sales Analysis project is to analyze customer order data to identify key sales trends, understand customer behavior, and evaluate restaurant performance. The project aims to extract actionable insights that can help optimize marketing strategies, improve customer satisfaction, enhance restaurant partnerships, and increase overall revenue. This will be achieved by using data analytics tools to explore patterns in sales volume, order frequency, delivery time, pricing, ratings, and geographical distribution.

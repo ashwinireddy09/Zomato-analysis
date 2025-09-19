@@ -13,23 +13,23 @@ Zomato sales analysis(Questionaries)
 
 2. Build a Calendar Table using the Columns Datekey_Opening (Which has Dates from Minimum Dates and Maximum Dates) Add all the below Columns in the Calendar Table using the Formulas.
    
-   A. Year
+   - A. Year
    
-   B.Monthno
+   - B.Monthno
    
-   C.Monthfullname
+   - C.Monthfullname
    
-   D.Quarter (Q1, Q2,Q3,Q4)
+   - D.Quarter (Q1, Q2,Q3,Q4)
    
-   E. YearMonth (YYYY-MMM)
+   - E. YearMonth (YYYY-MMM)
    
-   F. Weekdayno
+   - F. Weekdayno
    
-   G. Weekdayname
+   - G. Weekdayname
    
-   H.FinancialMonth (April FM1, May= FM2 March FM12)
+   - H.FinancialMonth (April FM1, May= FM2 March FM12)
    
-   I. Financial Quarter (Quarters based on Financial Month FQ-1. FQ-2..)
+   - I. Financial Quarter (Quarters based on Financial Month FQ-1. FQ-2..)
 
 4. Convert the Average cost for 2 column into USD dollars (currently the Average cost for 2 in local currencies
 
@@ -49,7 +49,7 @@ Zomato sales analysis(Questionaries)
 
 12. Build a Dashboard for the KPI's Above.
 
-** KPI are not limited only to above, you can experiment on the other KPI as well.
+- KPI are not limited only to above, you can experiment on the other KPI as well.
 - Dashboard Interaction
 - <a href="https://github.com/ashwinireddy09/Zomato-analysis/blob/main/Screenshot%202025-06-18%20130203.png">View Dashboard</a>
 
